@@ -1,6 +1,0 @@
-flask>=3.0
-anthropic>=0.25
-feedparser>=6.0
-requests>=2.31
-schedule>=1.2
-openai-whisper>=20231117
